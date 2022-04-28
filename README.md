@@ -10,7 +10,7 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Webpack](https://parceljs.org/)
 
-## Usage
+## Features
 
 
 - The Forkify Recipe App allows users to search for recipes.
